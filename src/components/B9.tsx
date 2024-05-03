@@ -7,7 +7,7 @@ export default function B9() {
         <h1>B9</h1>
         <table className="table">
   <thead>
-    <tr>
+    <tr style={{backgroundColor:"gray"}}>
       <th scope="col">STT</th>
       <th scope="col">Họ và tên</th>
       <th scope="col">Ngày sinh</th>
